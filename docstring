@@ -1,0 +1,35 @@
+Scope of the "Rock, Paper, Scissors" Game Project:
+
+The scope of the "Rock, Paper, Scissors" game project outlines the objectives, functionalities, and limitations of the web-based game that the Games4You team aims to develop and deliver to potential customers. The scope defines what will be included in the game and what will be excluded, providing a clear understanding of the project's boundaries and goals.
+
+Objectives:
+
+Team Building Promotion: The game will be marketed to other companies as a team-building tool to encourage friendly competition and engagement among their employees.
+
+Functionalities:
+
+User Interaction: Allow users to play the game by choosing one of the three options: Rock, Paper, or Scissors.
+
+Computer Opponent: The game will have a computer opponent that randomly selects its choice to compete against the user's choice.
+
+Determine Winner: Implement the game rules to determine the winner based on the choices made by the user and the computer.
+
+Display Results: Display the result of each round, indicating whether the user wins, the computer wins, or it's a tie.
+
+Scoring System: Keep track of the user's and computer's scores, displaying them after each round.
+
+Play Again Option: Provide an option for the user to play again after each round ends.
+
+Limitations:
+
+Single-Player Only: The game will only support single-player mode, where the user competes against the computer.
+
+No User Accounts: The game will not include user accounts or save historical data, as it is intended for casual team-building purposes.
+
+No Advanced AI: The computer opponent's choice will be randomly generated, without any advanced AI logic for optimal decision-making.
+
+Basic UI: The focus will be on simplicity and functionality rather than complex user interface design.
+
+No Network Play: The game will not include network play or online multiplayer features.
+
+No Mobile App: The initial version will be a web-based game and won't include a separate mobile application
